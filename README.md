@@ -1,4 +1,4 @@
-Funcionalidades principais  
+Funcionalidades principais 
 - **Perguntas dinâmicas:** A inteligência artificial ajusta as perguntas de acordo com suas respostas, simulando um entrevistador de verdade.  
 - **Feedback imediato:** Após cada resposta, são oferecidos comentários sobre clareza, objetividade e impacto.  
 - **Modos de entrevista:** 
